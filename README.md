@@ -11,4 +11,4 @@ Com o objetivo de compor meu portfólio de desenvolvimento front-end e design we
 *Este repositório refere-se a um projeto fictício. As imagens utilizadas foram retiradas de bancos de imagens e todo o conteúdo apresentado é fictício.*
 
 ### link para o site:
-https://annaros7.github.io/projeto-ficticio-landing-page-advogada/
+https://annaros7.github.io/Advogada-Laura-Monteiro/
